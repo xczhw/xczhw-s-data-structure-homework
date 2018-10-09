@@ -6,8 +6,7 @@ class TBT
 public:
 	TBT();
 	~TBT();
-	void create_tree(Node *&t);
 	void thread(Node *p, Node *f);
-	void get_thread(Node *&head, Node *root);
+	void traversal();
 };
 
