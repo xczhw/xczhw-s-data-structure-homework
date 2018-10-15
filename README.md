@@ -34,3 +34,8 @@ data structure homework
 
 1. 线索二叉树
 2. 前中序遍历得后序遍历
+
+## 10.9
+
+1. AVL
+
